@@ -3,7 +3,7 @@ import numpy as np
 
 #USER INPUTS FOR DIFFERNT RENDER
 RES = WIDTH, HEIGHT = 1600, 900
-FPS = 10 
+FPS = 10
 SIZE = 10 #Pixel Size for Alive
 DENSITY = 10 #Higher NUMBER is Less Dense
 
