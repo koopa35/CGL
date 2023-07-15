@@ -51,4 +51,4 @@ Contributions to the project are welcome. If you find any issues or have suggest
 
 ## License
 
-The code in this repository is available under the [MIT License](LICENSE).
+Code written by Connor Powell
