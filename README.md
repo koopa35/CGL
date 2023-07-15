@@ -1,6 +1,6 @@
 # Conway's Game of Life Simulation
 
-![image](https://github.com/koopa35/ConwaysGameLife/assets/87890771/93926e28-1c2d-4259-8216-18eb955e3fd1)
+![image](https://github.com/koopa35/CGL/assets/87890771/00301d16-d870-4434-aa87-73fdcecb0cf4)
 
 This code simulates Conway's Game of Life using the Pygame library. The Game of Life is a cellular automaton that follows simple rules to evolve a population of cells on a two-dimensional grid.
 
